@@ -1,0 +1,20 @@
+
+
+Passos:
+    1)identificar se o negócio é compra ou venda
+    2)compra:
+        1) Usuário do financeiro deve validar a operação
+        2) Solicitar a nota fiscal
+        3) Realizar o upload da nota fiscal no santenergy
+        4) Impostos (ICMS)
+    3)venda:
+        1) Usuário do fincaneiro deve validar a operação
+        2) Realizar o upload da nota fiscal no santenergy
+        3) Disparar um email com a nota fiscal em anexo
+        4) Impostos
+    4)identificar operações que irão realizar o encontro de contas
+    5)Selecionar operações para o encontro de contas (somente com duas empresas)
+    6)Gerar relatório com as operações selecionadas e o valor a ser pago.
+    7)Validar o encontro de contas
+    8)Enviar e-mail para confirmar o encontro de contas
+     
