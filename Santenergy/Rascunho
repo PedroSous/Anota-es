@@ -1,0 +1,85 @@
+Melhorias:
+- Aumentar o tamanho da fonte dentro da caixa "Descreva o motivo"
+- Atualização dos texto do volume
+- Texto da minuta, trocar o lugar de DADOS GERAIS com ENERGIA CONTRATADA.
+o texto 'as partes' em formato maiúsculo. 
+- Adicionar as tags no editor, flexibilidade, modulação, perfil de carga,
+reajuste, garantia... etc).
+- Criar botão pare reenviar uma minuta padrão.
+- Quando solicitar assinatura, informar para quem está sendo enviado. 
+Bugs:
+ - Filtro de minuta com problemas
+ - Minuta, assinaturas ficaram em páginas distintas. 
+ - Modal de solicitação de ajuste de minuta não esta fechando.
+ - Verificar a o controle de versão.
+ - 
+
+---------------------------------------
+AcelorMittal:
+
+- Como é o dia a dia hoje:
+  Registro na CCEE Mensal
+  Fornecedor registra o contrato
+  Ações são validadas pela AcelorMittal
+
+    Sazonalidade mensal
+    Carga total 800MWm
+    50% autoprodução
+    50% contratos
+
+Previsibilidade do PLD para identificar a sazonalição. 
+Consultoria: PSR, Timus. 
+
+Investimento em autoprodução, solar e eolica. 
+
+Geração, cogeração, energia incentivada. 
+
+    Sazonalidade semanal
+
+    As plantas param nos horarios de ponta.
+    PLD horarios
+
+
+Leitura da flexibilidade por hora. 
+Patameres de carga ao longo do mês e ao logo do ano. 
+Tendência da curva de carga. 
+Logica da contabilização da CCEE semanal. 
+Fazer projeção. 
+
+? As pectos técnicos das medição?
+? médição e leitura em tempo real?
+? Duas usinas tem medidores automaticos?
+
+Medição é puxada pela CCEE. 
+mudança do site SDE, utilização do robo para fazer o download dos relatórios da CCEE. 
+
+PROGRAMA resposta e demanda criado pela CCEE, esta parado por momento.
+
+Relatório da CCEE tem 1 a 2 dias de defasagem 
+
+
+Planilha de mediação da CCEE, como é feita a analise:
+ - 15% sazonalização
+ - histórico do ano "mais por referência".
+ - plano de produção de 2020. 
+ - Relatório SDE "consumo reaizado".
+ - O que foi produzido "quanto ela consumiu para produzir uma tonelada de aço"e o que foi consumido. 
+ - Volume de cada contrato. 
+ - Estimativa de PLD
+ - Verifica os meses que vai estar mais exposta. 
+ - ~26 empresas.
+ - FLAT, verifica mês a mês, sabe quanto vai ter de SPOT positivo ou negativo.
+ - Referência, para verificar em qual mês será feito a sazonalização e flexibilidade. 
+ - 
+
+ OBJETIVO --> Reduzir o preço ao máximo. 
+
+ SMO ??
+
+ 4 agentes na CCEE. 
+ a maioria das usinas está com um unico agentes
+ a geração está prativamente com um unico agente. 
+
+ **Corrigir o mês
+ **Fazer projeções. 
+Percentual de carga atendida somente nos contratos de incentivadas.
